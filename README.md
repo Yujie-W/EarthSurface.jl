@@ -25,7 +25,7 @@
 
 ## About
 
-Pack of functions to compute or read angles, elevations, and pressures etc at the earth surface
+Pack of functions to compute or read constants, angles, elevations, and pressures etc at the earth surface
 
 | Documentation                                   | CI Status             | Benchmarks            | Compatibility           | Code Coverage           |
 |:------------------------------------------------|:----------------------|:----------------------|:------------------------|:------------------------|
